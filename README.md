@@ -10,9 +10,9 @@ This is a simple web application built with Streamlit that lets users upload a C
 
 ## Installation and Setup
 
-### 1. First, make sure you have Python installed. If not, download and install [Python](https://www.python.org/downloads/).
+1. First, make sure you have Python installed. If not, download and install [Python](https://www.python.org/downloads/).
 
-### 2. Clone the repository: 📥 Installation
+2. Clone the repository: 📥 Installation
 
 To get started with this project, you can clone the repository:
 
