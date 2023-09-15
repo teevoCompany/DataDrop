@@ -24,24 +24,20 @@ To get started with this project, you can clone the repository:
 
 
 
-### 🛠 How to Use
-Upload CSV File:
-
-Click on the "Choose a CSV file" button.
-Select your CSV file.
-Preview Data:
-
-After uploading, preview the data directly in the application.
-Drop Columns:
-
-Use the multiselect widget to select the columns you want to remove.
-Download Modified Data:
-
-Click the "Drop Columns" button after selecting columns.
-A download link appears. Click on "Download Modified CSV File" to get the updated dataset.
-📌 Utility Function
-The code includes a utility function, get_table_download_link(df).
-It generates a download
+## 🛠 How to Use
+### 1. Upload CSV File:
+      * Click on the "Choose a CSV file" button.
+      * Select your CSV file.
+### 2. Preview Data:
+      * After uploading, preview the data directly in the application.
+### 3. Drop Columns:
+      * Use the multiselect widget to select the columns you want to remove.
+### 4. Download Modified Data:
+      * Click the "Drop Columns" button after selecting columns.
+      * A download link appears. Click on "Download Modified CSV File" to get the updated dataset.
+## 📌 Utility Function
+`The code includes a utility function, get_table_download_link(df).
+It generates a download`
 
    
 
