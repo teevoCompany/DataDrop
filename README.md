@@ -16,11 +16,11 @@ This is a simple web application built with Streamlit that lets users upload a C
 
 To get started with this project, you can clone the repository:
 
-`git clone [YOUR REPOSITORY LINK]`
+`git clone https://github.com/teevoCompany/DataDrop.git`
 
-3. Navigate to the directory: `cd [YOUR REPOSITORY NAME]`
+3. Navigate to the directory file: `cd C:\Users\User\Desktop\Ddrop>`
 4. Install the necessary libraries to your virtual env: `pip install -r requirments.txt`
-5. Run the Streamlit app: `streamlit run [YOUR_FILENAME].py`
+5. Run the Streamlit app: `streamlit run app.py`
 
 
 
